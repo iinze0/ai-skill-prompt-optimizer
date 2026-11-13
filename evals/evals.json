@@ -1,0 +1,7 @@
+{
+  "skill": "prompt-optimizer",
+  "test_cases": [
+    {"name": "improve_prompt", "input": "Make this prompt better: write a blog post about AI", "assertions": ["Provides rewritten prompt", "Explains improvements"]},
+    {"name": "add_structure", "input": "Optimize this prompt for more consistent outputs", "assertions": ["Adds format or constraints"]}
+  ]
+}

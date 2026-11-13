@@ -1,2 +1,3 @@
-# ai-skill-prompt-optimizer
-AI skill for optimizing and refining prompts to get better results from language models.
+# AI Skill: Prompt Optimizer
+
+Helps refine and optimize prompts for clearer, more consistent AI outputs.

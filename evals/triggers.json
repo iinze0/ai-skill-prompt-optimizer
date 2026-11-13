@@ -1,0 +1,8 @@
+{
+  "skill": "prompt-optimizer",
+  "test_cases": [
+    {"input": "improve this prompt", "should_trigger": true},
+    {"input": "optimize my prompt for better results", "should_trigger": true},
+    {"input": "write a SQL query", "should_trigger": false}
+  ]
+}
